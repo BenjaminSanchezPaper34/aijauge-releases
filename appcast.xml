@@ -4,5 +4,18 @@
     <title>AIjauge</title>
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
+    <item>
+      <title>AIjauge 0.2.0</title>
+      <pubDate>Tue, 22 Sep 2026 20:37:40 +0200</pubDate>
+      <sparkle:version>20260922</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Première version publique : barre des menus, widgets bureau, prévision « à ce rythme », notifications.</li>
+<li>Lit la session de Claude Code en lecture seule, jamais de mot de passe.</li>
+<li>Apps iPhone et Apple Watch en préparation (synchro iCloud déjà active).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.0/AIjauge-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="ZNWtyZMVBK4bqzCN5omL1d7wT2VwisPn7iIf/YF9mzvUZQ1QtVIDgfK48bbYJllPCtH+WQje0lcLhAjv3SKrBw==" length="3049345"/>
+    </item>
   </channel>
 </rss>
