@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIjauge · Privacy policy</title>
+<style>
+  :root { color-scheme: light dark; --fg: #1d1d1f; --muted: #6e6e73; --bg: #fff; --accent: #0a84ff; }
+  @media (prefers-color-scheme: dark) { :root { --fg: #f5f5f7; --muted: #a1a1a6; --bg: #000; } }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; color: var(--fg); background: var(--bg); line-height: 1.55; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 20px 64px; }
+  h1 { font-size: 1.9rem; } h2 { font-size: 1.15rem; margin-top: 28px; }
+  a { color: var(--accent); text-decoration: none; } .muted { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← AIjauge</a></p>
+  <h1>Privacy policy</h1>
+  <p class="muted">Last updated: September 22, 2026 · <a href="confidentialite.html">Version française</a></p>
+
+  <h2>In one sentence</h2>
+  <p>AIjauge does not collect, store on servers, share or sell any personal data. No account, no tracking, no ads, no analytics.</p>
+
+  <h2>What the Mac app reads</h2>
+  <p>On your Mac, AIjauge reads, read-only, the session that the Claude Code tool saved in your keychain or in its configuration folder, and uses it solely to ask Anthropic's servers for your usage percentages (the same call as Claude Code's <code>/usage</code> command). AIjauge never refreshes that session itself and never copies the refresh token. A copy of the access token may be kept in AIjauge's own keychain item, on your Mac only, to avoid repeated authorization prompts.</p>
+
+  <h2>What is stored, and where</h2>
+  <ul>
+    <li>On the Mac: usage readings (percentages and reset times) for 90 days, a local diagnostic journal and your settings, in <code>~/Library/Application Support/AIjauge</code>.</li>
+    <li>In your private iCloud: the latest reading and a 7-day history, as percentages, through Apple's iCloud key-value store, so your iPhone and Apple Watch can display them. This data only travels through your own iCloud account; the publisher has no access to it.</li>
+    <li>On iPhone and Watch: a local copy of that reading for widgets and complications.</li>
+  </ul>
+
+  <h2>What is never done</h2>
+  <ul>
+    <li>No data is sent to the publisher or to any third party. The Mac app's only network requests go to Anthropic's servers; the iPhone and Watch apps make no network requests at all.</li>
+    <li>No analytics, tracking or advertising framework is embedded.</li>
+    <li>The content of your conversations or sessions is neither read nor stored.</li>
+  </ul>
+
+  <h2>Purchases</h2>
+  <p>The “AIjauge Pro” in-app purchase is handled by Apple. AIjauge receives no payment information; it only checks, through Apple's StoreKit framework, whether the purchase is active.</p>
+
+  <h2>Mac app updates</h2>
+  <p>The Mac app checks once a day for an update by downloading a feed file hosted on GitHub. That request carries no personal data.</p>
+
+  <h2>Your rights and contact</h2>
+  <p>Since the publisher collects nothing, there is nothing to access, correct or delete on our side; deleting the app and its support folder erases everything locally. Questions: <a href="mailto:contact@paper34.fr">contact@paper34.fr</a>. Publisher: Benjamin Sanchez, France.</p>
+</main>
+</body>
+</html>

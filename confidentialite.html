@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIjauge · Politique de confidentialité</title>
+<style>
+  :root { color-scheme: light dark; --fg: #1d1d1f; --muted: #6e6e73; --bg: #fff; --accent: #0a84ff; }
+  @media (prefers-color-scheme: dark) { :root { --fg: #f5f5f7; --muted: #a1a1a6; --bg: #000; } }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; color: var(--fg); background: var(--bg); line-height: 1.55; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 20px 64px; }
+  h1 { font-size: 1.9rem; } h2 { font-size: 1.15rem; margin-top: 28px; }
+  a { color: var(--accent); text-decoration: none; } .muted { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← AIjauge</a></p>
+  <h1>Politique de confidentialité</h1>
+  <p class="muted">Dernière mise à jour : 22 septembre 2026 · <a href="privacy.html">English version</a></p>
+
+  <h2>En une phrase</h2>
+  <p>AIjauge ne collecte, ne stocke sur des serveurs, ne partage ni ne vend aucune donnée personnelle. Aucun compte, aucun suivi, aucune publicité, aucune analyse d'usage.</p>
+
+  <h2>Ce que l'app Mac lit</h2>
+  <p>Sur votre Mac, AIjauge lit en lecture seule la session que l'outil Claude Code a enregistrée dans votre trousseau ou dans son dossier de configuration, et l'utilise uniquement pour demander aux serveurs d'Anthropic vos pourcentages d'usage (le même appel que la commande <code>/usage</code> de Claude Code). AIjauge ne renouvelle jamais cette session lui-même et ne copie jamais le jeton de renouvellement. Une copie du jeton d'accès peut être conservée dans une entrée de trousseau propre à AIjauge, sur votre Mac uniquement, pour éviter des demandes d'autorisation répétées.</p>
+
+  <h2>Ce qui est stocké, et où</h2>
+  <ul>
+    <li>Sur le Mac : les relevés d'usage (pourcentages et heures de réinitialisation) pendant 90 jours, un journal de diagnostic local et vos réglages. Dossier <code>~/Library/Application Support/AIjauge</code>.</li>
+    <li>Dans votre iCloud privé : le dernier relevé et l'historique sur 7 jours, sous forme de pourcentages, via le store clé-valeur iCloud d'Apple, pour que votre iPhone et votre Apple Watch puissent les afficher. Ces données ne transitent que par votre compte iCloud ; l'éditeur n'y a pas accès.</li>
+    <li>Sur l'iPhone et la Watch : une copie locale de ce relevé pour les widgets et complications.</li>
+  </ul>
+
+  <h2>Ce qui n'est jamais fait</h2>
+  <ul>
+    <li>Aucune donnée n'est envoyée à l'éditeur ni à un tiers. Les seules requêtes réseau de l'app Mac sont adressées aux serveurs d'Anthropic ; l'app iPhone et l'app Watch n'effectuent aucune requête réseau.</li>
+    <li>Aucun outil d'analyse, de suivi ou de publicité n'est intégré.</li>
+    <li>Le contenu de vos conversations ou de vos sessions n'est ni lu, ni stocké.</li>
+  </ul>
+
+  <h2>Achats</h2>
+  <p>L'achat intégré « AIjauge Pro » est traité par Apple. AIjauge ne reçoit aucune information de paiement ; il vérifie seulement, via le cadre StoreKit d'Apple, si l'achat est actif.</p>
+
+  <h2>Mises à jour de l'app Mac</h2>
+  <p>L'app Mac vérifie une fois par jour la disponibilité d'une mise à jour en téléchargeant un fichier de flux hébergé sur GitHub. Cette requête ne transmet aucune donnée personnelle.</p>
+
+  <h2>Vos droits et contact</h2>
+  <p>Comme aucune donnée n'est collectée par l'éditeur, il n'y a rien à consulter, corriger ou effacer de notre côté ; supprimer l'app et le dossier de support efface tout localement. Pour toute question : <a href="mailto:contact@paper34.fr">contact@paper34.fr</a>. Éditeur : Benjamin Sanchez, France.</p>
+</main>
+</body>
+</html>
