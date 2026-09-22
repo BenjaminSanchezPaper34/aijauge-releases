@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.1</title>
+      <pubDate>Tue, 22 Sep 2026 21:24:42 +0200</pubDate>
+      <sparkle:version>20260922</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Journal de diagnostic (Réglages → Source → Afficher le journal).</li>
+<li>Le démarrage n'attend plus jamais un dialogue du trousseau.</li>
+<li>iPhone : rafraîchissement en arrière-plan des widgets.</li>
+<li>Apple Watch : la complication remonte dans la Smart Stack quand une limite approche ou avant un reset.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.1/AIjauge-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="xgssW3Yq/nYHyQd/zZDvv/O/bfrSX7cwyBNcAHZX9MLU/AdsN3RjiYQf8h+itfaUZMyfcffjrTpWhGHr8G9QBw==" length="3077116"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.0</title>
       <pubDate>Tue, 22 Sep 2026 20:37:40 +0200</pubDate>
       <sparkle:version>20260922</sparkle:version>
