@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.2</title>
+      <pubDate>Tue, 22 Sep 2026 21:50:31 +0200</pubDate>
+      <sparkle:version>202609222148</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Répartition de la semaine (Claude Code, Chats…) dans le panneau.</li>
+<li>Historique sur 7 jours : fenêtre dédiée sur Mac (icône graphique), courbe dans l'app iPhone.</li>
+<li>iPhone : Live Activity du reset de session dans la Dynamic Island (bouton chrono en haut à droite).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.2/AIjauge-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="ns2Om/Lt2VEal+dbmqMHcTXw1lTzAEgS2brSg5A517pRW9D9FK4KwWYntqqvE1eYkBbMA6/K7sQLXZOvNFO6Cg==" length="3182106"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.1</title>
       <pubDate>Tue, 22 Sep 2026 21:31:40 +0200</pubDate>
       <sparkle:version>202609222127</sparkle:version>
