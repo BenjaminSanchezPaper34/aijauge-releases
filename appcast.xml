@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.4</title>
+      <pubDate>Fri, 25 Sep 2026 00:17:24 +0200</pubDate>
+      <sparkle:version>202609250015</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouvelle icône Liquid Glass, avec un fond clair ou sombre selon l'apparence du Mac.</li>
+<li>Les anneaux des widgets ne débordent plus de leur cadre.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.4/AIjauge-0.2.4.dmg" type="application/octet-stream" sparkle:edSignature="wqjAjUL51xs0Ml+dvPjK5GdlT6lSI3TbACDgsFJnTv7PTnipXxfarwDWzTLHHstvoTDDg1QFebPanlqnDWX/BQ==" length="5528397"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.3</title>
       <pubDate>Wed, 23 Sep 2026 21:46:02 +0200</pubDate>
       <sparkle:version>202609232144</sparkle:version>
