@@ -5,6 +5,22 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.3.0</title>
+      <pubDate>Fri, 25 Sep 2026 15:40:56 +0200</pubDate>
+      <sparkle:version>202609251539</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>AIjauge 0.3 : passer du constat à l'action.</p>
+<li>Objectif de la semaine : fixez un plafond (Réglages → Général) et suivez-le comme un anneau Fitness, avec le budget par jour qui reste. Partagé avec l'iPhone.</li>
+<li>Journal des économies : ce que vos changements d'habitude sur le contexte et le cache vous font gagner, semaine après semaine.</li>
+<li>Vos fenêtres de 5 h : votre journée type, et l'heure du premier message qui vous donne une fenêtre de plus quand vous touchez souvent la limite.</li>
+<li>Rapport du mois en PDF : coût, rendement du forfait, projets, modèles et conseils, à garder ou partager.</li>
+<li>Raccourcis : « Usage d'un service », « Service le plus disponible » et « Objectif de la semaine tenu », pour vos automatisations.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.3.0/AIjauge-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="0JY4osxKqPE3ienJf3IDb+OKl8fUqk5UhcAQme99sH1ij45Eempf4lf9SIoUyUaiw2K1palPCutXOmUX99jfBA==" length="6432334"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.13</title>
       <pubDate>Fri, 25 Sep 2026 15:21:08 +0200</pubDate>
       <sparkle:version>202609251519</sparkle:version>
