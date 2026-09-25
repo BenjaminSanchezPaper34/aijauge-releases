@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.11</title>
+      <pubDate>Fri, 25 Sep 2026 14:35:00 +0200</pubDate>
+      <sparkle:version>202609251433</sparkle:version>
+      <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Deux nouveaux conseils :</li>
+<p>  • Contexte : ce que coûte la relecture d'un contexte de plus de 200 000 tokens à chaque tour, et quand lancer /compact ou repartir d'une nouvelle session.</p>
+<p>  • Modèle : les petites tâches traitées par un modèle haut de gamme, et les longues boucles sur un modèle léger.</p>
+<li>Les conseils sont classés du plus utile au moins utile.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.11/AIjauge-0.2.11.dmg" type="application/octet-stream" sparkle:edSignature="EuVieHuucnK2VXl4j/ohcxp6irk5JCPtYGB32/bcBw2z5fdyHkzfJh4eienZKJSxtemK7zp6n6PZHLnSGHzRAw==" length="6019466"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.10</title>
       <pubDate>Fri, 25 Sep 2026 14:28:02 +0200</pubDate>
       <sparkle:version>202609251425</sparkle:version>
