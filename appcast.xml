@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.8</title>
+      <pubDate>Fri, 25 Sep 2026 13:49:14 +0200</pubDate>
+      <sparkle:version>202609251347</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>La roue crantée des réglages rejoint le tableau de bord et Actualiser en haut du panneau (⌘,).</li>
+<li>Le tableau de bord indique le service analysé et reprend le sélecteur Claude / ChatGPT.</li>
+<li>Nouvel historique ChatGPT : AIjauge garde chaque relevé et trace l'évolution de chaque limite.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.8/AIjauge-0.2.8.dmg" type="application/octet-stream" sparkle:edSignature="RY1C1qv8Kqalt3NpVP1lX12uSeqzL3hMCa8PS4Vyp5bcJYcPunkuPklZZ8ZSXM8xO9b2lg6i7s4wuZC1TA/TCQ==" length="5920920"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.7</title>
       <pubDate>Fri, 25 Sep 2026 13:41:12 +0200</pubDate>
       <sparkle:version>202609251339</sparkle:version>
