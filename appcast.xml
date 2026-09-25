@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.3.2</title>
+      <pubDate>Fri, 25 Sep 2026 16:16:47 +0200</pubDate>
+      <sparkle:version>202609251615</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Une carte « anneaux » en tête du panneau et du tableau de bord, pour Claude comme pour ChatGPT, avec le rythme et votre objectif.</li>
+<li>Le panneau défile quand il dépasse la hauteur de l'écran.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.3.2/AIjauge-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="mkP6kRfYum77Caa3EahRypg8LdEdLD6pCV6nUucnSG+Y19C50GAdbOlfNV+8sPNJWsTFjAkOLhPAODL5eZtBDw==" length="6517853"/>
+    </item>
+    <item>
       <title>AIjauge 0.3.1</title>
       <pubDate>Fri, 25 Sep 2026 16:09:37 +0200</pubDate>
       <sparkle:version>202609251607</sparkle:version>
