@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-itunes-app" content="app-id=6814973861">
 <title>AIjauge</title>
 <style>
   :root { color-scheme: light dark; --fg: #1d1d1f; --muted: #6e6e73; --bg: #ffffff; --card: #f5f5f7; --accent: #0a84ff; }
@@ -16,6 +17,10 @@
   a { color: var(--accent); text-decoration: none; }
   .btn { display: inline-block; background: var(--accent); color: #fff; padding: 10px 18px; border-radius: 10px; font-weight: 600; margin: 8px 8px 8px 0; }
   footer { color: var(--muted); font-size: .85rem; margin-top: 48px; }
+  /* Official App Store badge: unmodified, 48 px tall (40 minimum), clear space of a quarter of its height. */
+  .store { display: flex; align-items: center; gap: 12px; margin: 16px 0 8px; }
+  .store a { display: block; padding: 12px; margin: -12px; line-height: 0; }
+  .store span { color: var(--muted); font-size: .95rem; }
 </style>
 </head>
 <body>
@@ -25,6 +30,10 @@
 
   <a class="btn" href="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/latest">Télécharger pour Mac</a>
   <a class="btn" href="confidentialite.html" style="background: var(--card); color: var(--fg)">Politique de confidentialité</a>
+  <p class="store">
+    <a href="https://apps.apple.com/fr/app/id6814973861"><img src="badges/app-store-fr.svg" alt="Télécharger dans l'App Store" height="48"></a>
+    <span>AIjauge pour iPhone et Apple Watch</span>
+  </p>
 
   <h2>Comment ça marche</h2>
   <div class="card">
@@ -44,6 +53,7 @@
   <h2>Mentions</h2>
   <div class="card">
     <p>AIjauge est un logiciel indépendant édité par Benjamin Sanchez (paper34.fr). Claude est une marque d'Anthropic, PBC. AIjauge n'est ni affilié à, ni approuvé par Anthropic.</p>
+    <p>Apple, le logo Apple, iPhone, Apple Watch et Mac sont des marques d'Apple Inc., déposées aux États-Unis et dans d'autres pays et régions. App Store est une marque de service d'Apple Inc.</p>
   </div>
 
   <footer>© 2026 Benjamin Sanchez · <a href="privacy.html">Privacy policy (English)</a></footer>
