@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.3.1</title>
+      <pubDate>Fri, 25 Sep 2026 16:09:37 +0200</pubDate>
+      <sparkle:version>202609251607</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouveau : des anneaux comme dans Forme (session 5 h, semaine, objectif), dans la barre des menus (Réglages → Général → Affichage → Anneaux) et dans un nouveau widget « Anneaux ».</li>
+<li>L'objectif dépassé fait un second tour d'anneau.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.3.1/AIjauge-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="m4uhvmC4M7aQ/D3tpYP7Pqpc0Tbr3pcSbZ5OC/gLi4uNSts2eT2aZudsWtl7USdcrl2EtYIg7xzHsZcmlLGsCQ==" length="6483633"/>
+    </item>
+    <item>
       <title>AIjauge 0.3.0</title>
       <pubDate>Fri, 25 Sep 2026 15:40:56 +0200</pubDate>
       <sparkle:version>202609251539</sparkle:version>
