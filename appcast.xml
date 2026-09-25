@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.6</title>
+      <pubDate>Fri, 25 Sep 2026 13:15:34 +0200</pubDate>
+      <sparkle:version>202609251314</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouveau : ChatGPT à côté de Claude. AIjauge lit vos limites Codex (ChatGPT Plus, Pro, Go) grâce à l'outil Codex de l'app ChatGPT, ou à ses journaux locaux, sans lire aucun identifiant.</li>
+<li>Nouveau réglage « Services » : les abonnements IA détectés sur ce Mac, avec un interrupteur pour chacun.</li>
+<li>Nouveau mode sans jeton pour Claude (Réglages → Source) : AIjauge lit les limites que Claude Code transmet à sa ligne d'état, sans accès au trousseau.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.6/AIjauge-0.2.6.dmg" type="application/octet-stream" sparkle:edSignature="aHcu8hHeg5rjhIauW2HKQRxwuCbd7+kZ0ddfVjHl/3xhDHU7OppbHxp5ICZ+35jv6zrnsBSEvklXa7UrpIZlAg==" length="5844708"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.5</title>
       <pubDate>Fri, 25 Sep 2026 12:48:14 +0200</pubDate>
       <sparkle:version>202609251246</sparkle:version>
