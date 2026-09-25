@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.7</title>
+      <pubDate>Fri, 25 Sep 2026 13:41:12 +0200</pubDate>
+      <sparkle:version>202609251339</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Un sélecteur en haut du panneau permet de passer de Claude à ChatGPT, avec le pourcentage de chacun. Le panneau ne montre plus qu'un service à la fois et retient votre choix.</li>
+<li>Le mode sans jeton précise qu'il fonctionne uniquement avec Claude Code lancé dans un Terminal.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.7/AIjauge-0.2.7.dmg" type="application/octet-stream" sparkle:edSignature="a28St5ojFepj+2000y+U4j4lHCfXIq/xjSsD/yr6jkrorQZpQmpZZvgASV6YoPxU1Sr0EoGmuIs3z8z6lElWBQ==" length="5868975"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.6</title>
       <pubDate>Fri, 25 Sep 2026 13:15:34 +0200</pubDate>
       <sparkle:version>202609251314</sparkle:version>
