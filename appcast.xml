@@ -5,6 +5,21 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.13</title>
+      <pubDate>Fri, 25 Sep 2026 15:21:08 +0200</pubDate>
+      <sparkle:version>202609251519</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Conseils plus précis : le projet concerné, l'évolution par rapport à la semaine dernière, et une estimation signalée comme provisoire quand l'historique est court.</li>
+<li>Un conseil peut être masqué pendant une semaine.</li>
+<li>Nouveau coach de contexte : une alerte quand une session Claude Code dépasse 300 000 puis 600 000 tokens de contexte, avec le coût de chaque tour.</li>
+<li>Le conseil principal s'affiche dans les widgets moyen et grand.</li>
+<li>Meilleure prise en charge des grandes tailles de texte et de VoiceOver.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.13/AIjauge-0.2.13.dmg" type="application/octet-stream" sparkle:edSignature="VCYr7NI/kpMi7klL2AUnB0WCFO+tAgwOsW3G73B8gZd/fA4K/v+RKkcpikDZedWK5SzxKctoVkWmc7EGmtynAg==" length="6132295"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.12</title>
       <pubDate>Fri, 25 Sep 2026 15:06:53 +0200</pubDate>
       <sparkle:version>202609251504</sparkle:version>
