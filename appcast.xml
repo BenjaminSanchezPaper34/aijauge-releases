@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.12</title>
+      <pubDate>Fri, 25 Sep 2026 15:06:53 +0200</pubDate>
+      <sparkle:version>202609251504</sparkle:version>
+      <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouveau conseil d'aiguillage : quand Claude approche de sa limite et que ChatGPT a de la marge, AIjauge vous propose de basculer la prochaine tâche.</li>
+<li>Chaque lundi, une notification rassemble vos deux conseils les plus utiles, avec leur gain estimé (désactivable dans Réglages → Notifications).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.12/AIjauge-0.2.12.dmg" type="application/octet-stream" sparkle:edSignature="EA2h9rRcdShl0wNRgR90sHOs4kLJLwgwXipzoBauLJRa+uAmzAx0e4L1xfB/y5V3V+rZts9jWMPY+yVofo59Cg==" length="6056962"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.11</title>
       <pubDate>Fri, 25 Sep 2026 14:35:00 +0200</pubDate>
       <sparkle:version>202609251433</sparkle:version>
