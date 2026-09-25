@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.3.3</title>
+      <pubDate>Fri, 25 Sep 2026 16:56:44 +0200</pubDate>
+      <sparkle:version>202609251655</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>**Le bon moment pour /compact.** AIjauge suit la session Claude Code en cours et vous dit quand compacter : dès que Claude a fini sa réponse et que le cache est encore chaud, avant de reprendre après une pause, ou juste avant qu'il ne compacte de lui-même. Dans le panneau, le tableau de bord, les widgets, en notification et avec Siri (« Faut-il compacter ? »).</p>
+<p>**Historique en anneaux.** Un calendrier du mois, avec les anneaux de chaque jour : session la plus haute, semaine, budget du jour. Il remplace la grille d'activité du tableau de bord. Le grand widget Anneaux montre les cinq dernières semaines.</p>
+<p>Les compactages automatiques de la semaine rejoignent aussi les conseils.</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.3.3/AIjauge-0.3.3.dmg" type="application/octet-stream" sparkle:edSignature="YK6kIAMuEV9AHyTa7z5YFixPLHEQGwJqtoZTM9ZExMjIylxiTgEx8qcRwEPPD/e+RfiW/L27EGkXK523dgmoCw==" length="6819838"/>
+    </item>
+    <item>
       <title>AIjauge 0.3.2</title>
       <pubDate>Fri, 25 Sep 2026 16:16:47 +0200</pubDate>
       <sparkle:version>202609251615</sparkle:version>
