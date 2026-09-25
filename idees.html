@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-itunes-app" content="app-id=6814973861">
+<title>AIjauge · Idées</title>
+<style>
+  :root { color-scheme: light dark; --fg: #1d1d1f; --muted: #6e6e73; --bg: #ffffff; --card: #f5f5f7; --accent: #0a84ff; --rule: rgba(0,0,0,.08); }
+  @media (prefers-color-scheme: dark) { :root { --fg: #f5f5f7; --muted: #a1a1a6; --bg: #000; --card: #1c1c1e; --rule: rgba(255,255,255,.12); } }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", Helvetica, Arial, sans-serif; color: var(--fg); background: var(--bg); line-height: 1.5; }
+  main { max-width: 720px; margin: 0 auto; padding: 48px 20px 64px; }
+  h1 { font-size: 2.2rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 28px; font-size: 1.1rem; }
+  h2 { font-size: 1.25rem; margin: 32px 0 8px; }
+  .card { background: var(--card); border-radius: 14px; padding: 18px 20px; margin: 12px 0; }
+  a { color: var(--accent); text-decoration: none; }
+  .btn { display: inline-block; background: var(--accent); color: #fff; padding: 10px 18px; border-radius: 10px; font-weight: 600; margin: 8px 8px 8px 0; }
+  .btn.alt { background: var(--card); color: var(--fg); }
+  ol { list-style: none; padding: 0; margin: 0; }
+  li { display: flex; gap: 14px; align-items: baseline; padding: 10px 0; border-top: 1px solid var(--rule); }
+  li:first-child { border-top: none; }
+  .votes { min-width: 3.2em; font-variant-numeric: tabular-nums; color: var(--muted); }
+  .muted { color: var(--muted); }
+  footer { color: var(--muted); font-size: .85rem; margin-top: 48px; }
+</style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← AIjauge</a></p>
+  <h1>Idées</h1>
+  <p class="sub">Proposez, votez : les idées les plus demandées passent en premier.</p>
+
+  <a class="btn" href="https://github.com/BenjaminSanchezPaper34/aijauge-releases/issues/new?template=idee.yml">Proposer une idée</a>
+  <a class="btn alt" href="mailto:contact@paper34.fr?subject=AIjauge%20%3A%20une%20id%C3%A9e">Écrire par mail</a>
+
+  <h2>Les plus demandées</h2>
+  <div class="card">
+    <ol id="ideas"><li class="muted">Chargement…</li></ol>
+  </div>
+  <p class="muted">Pour voter, ouvrez une idée et ajoutez-lui un 👍 (compte GitHub gratuit). Sans compte, écrivez-nous : nous reportons votre voix. Chaque idée est relue avant d'apparaître ici.</p>
+
+  <h2>Livrées</h2>
+  <div class="card">
+    <ol id="shipped"><li class="muted">Chargement…</li></ol>
+  </div>
+
+  <h2>Un problème</h2>
+  <div class="card">
+    <p>Écrivez à <a href="mailto:contact@paper34.fr?subject=AIjauge%20%3A%20un%20probl%C3%A8me">contact@paper34.fr</a> : la réponse arrive sous 48 heures ouvrées. Depuis l'app (Réglages sur l'iPhone, menu ⋯ sur le Mac), le mail part avec la version et l'appareil déjà remplis. Vous pouvez aussi <a href="https://github.com/BenjaminSanchezPaper34/aijauge-releases/issues/new?template=probleme.yml">le signaler publiquement</a>.</p>
+  </div>
+
+  <h2>Comment on choisit</h2>
+  <div class="card">
+    <p>Chaque semaine, les idées et les problèmes sont triés par nombre de votes. Les problèmes passent avant les nouveautés ; parmi les idées, les plus demandées d'abord, si elles respectent ce qui fait AIjauge : lecture seule, aucun identifiant qui quitte le Mac, une interface sobre. Une idée retenue est marquée « prévu », puis « livré » avec la version qui l'apporte.</p>
+  </div>
+
+  <footer>© 2026 Benjamin Sanchez · <a href="confidentialite.html">Confidentialité</a></footer>
+</main>
+<script>
+  // Reviewed ideas only (label idee, set after reading; new ones arrive as a-trier),
+  // most 👍 first, from GitHub's public search API (no token), kept 10 minutes.
+  const REPO = 'BenjaminSanchezPaper34/aijauge-releases';
+  async function search(query, sort) {
+    const key = 'ideas:' + query + sort;
+    try { const c = JSON.parse(sessionStorage.getItem(key)); if (c && Date.now() - c.at < 600000) return c.items; } catch (e) {}
+    const r = await fetch(`https://api.github.com/search/issues?q=${encodeURIComponent('repo:' + REPO + ' is:issue ' + query)}&sort=${sort}&order=desc&per_page=12`, { headers: { Accept: 'application/vnd.github+json' } });
+    if (!r.ok) throw new Error(r.status);
+    const items = (await r.json()).items || [];
+    try { sessionStorage.setItem(key, JSON.stringify({ at: Date.now(), items })); } catch (e) {}
+    return items;
+  }
+  function fill(id, items, emptyText, votes) {
+    const list = document.getElementById(id);
+    list.innerHTML = '';
+    if (!items.length) { const li = document.createElement('li'); li.className = 'muted'; li.textContent = emptyText; list.append(li); return; }
+    for (const it of items) {
+      const li = document.createElement('li');
+      const n = document.createElement('span');
+      n.className = 'votes';
+      n.textContent = votes ? `${(it.reactions && it.reactions['+1']) || 0} 👍` : '✓';
+      const a = document.createElement('a');
+      a.href = it.html_url;
+      a.textContent = it.title.replace(/^Idée\s*:\s*/i, '');
+      li.append(n, a);
+      list.append(li);
+    }
+  }
+  function fallback(id) {
+    const list = document.getElementById(id);
+    list.innerHTML = '<li class="muted">La liste ne se charge pas pour le moment. <a href="https://github.com/' + REPO + '/issues?q=is%3Aissue+label%3Aidee+sort%3Areactions-%2B1-desc">Voir les idées sur GitHub</a></li>';
+  }
+  search('is:open label:idee', 'reactions-%2B1').then(i => fill('ideas', i, 'Pas encore d’idée : proposez la première.', true)).catch(() => fallback('ideas'));
+  search('is:closed label:livré', 'updated').then(i => fill('shipped', i, 'Les premières arrivent avec la prochaine version.', false)).catch(() => fallback('shipped'));
+</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+name: Idée
+description: Proposer une amélioration de AIjauge (bientôt JaugeAI)
+title: "Idée : "
+labels: ["a-trier"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci ! Avant d'écrire, cherchez si l'idée existe déjà et votez 👍 dessus : les plus demandées passent en premier.
+        Chaque idée est relue avant d'apparaître sur la page des idées du site. Ce ticket est public : n'y mettez aucune information personnelle.
+  - type: textarea
+    id: besoin
+    attributes:
+      label: Le besoin
+      description: Ce que vous voulez pouvoir faire, et pourquoi.
+    validations:
+      required: true
+  - type: textarea
+    id: idee
+    attributes:
+      label: L'idée
+      description: Comment l'app pourrait y répondre (facultatif).
+  - type: dropdown
+    id: ou
+    attributes:
+      label: Où
+      multiple: true
+      options:
+        - Mac (barre des menus)
+        - iPhone
+        - Apple Watch
+        - Widgets et écran verrouillé
+        - Partout

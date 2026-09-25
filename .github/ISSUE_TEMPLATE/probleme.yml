@@ -1,0 +1,26 @@
+name: Problème
+description: Signaler un problème, publiquement (en privé, écrivez à contact@paper34.fr)
+title: "Problème : "
+labels: ["probleme", "a-trier"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ce ticket est public : n'y mettez aucune information personnelle, et ne collez **jamais** de jeton, d'identifiant Claude, de clé ni de journal de l'app. Pour écrire en privé, utilisez contact@paper34.fr, ou « Signaler un problème » dans l'app.
+  - type: textarea
+    id: quoi
+    attributes:
+      label: Ce qui se passe
+    validations:
+      required: true
+  - type: textarea
+    id: attendu
+    attributes:
+      label: Ce que vous attendiez
+  - type: input
+    id: version
+    attributes:
+      label: Version et appareil
+      description: Par exemple « 1.1 sur iPhone, iOS 27 » ou « 0.4.0 sur Mac, macOS 27 ».
+    validations:
+      required: true
