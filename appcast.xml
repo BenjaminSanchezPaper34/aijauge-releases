@@ -5,6 +5,21 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.9</title>
+      <pubDate>Fri, 25 Sep 2026 14:10:12 +0200</pubDate>
+      <sparkle:version>202609251408</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouveau : des conseils pour ajuster votre usage, avec le gain estimé et leur justification.</li>
+<p>  • Cache : combien vos pauses de plus de 5 minutes coûtent en relecture du contexte.</p>
+<p>  • Planificateur : quand la session sera pleine, et combien de sessions de 5 h il vous reste cette semaine.</p>
+<p>  • Forfait : ce que votre forfait vous rapporte, ou si le palier au-dessus ou en dessous vous conviendrait mieux.</p>
+<li>Les conseils apparaissent dans le panneau et dans le tableau de bord.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.9/AIjauge-0.2.9.dmg" type="application/octet-stream" sparkle:edSignature="shpeSQrKTXrjyMVoMwj0+zXoIurjP1lV5hHNRgnp6UBh44fR0gRIPPsmfdbb4/PJgHtxYykZYN1HzMvvj1k6Aw==" length="6016342"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.8</title>
       <pubDate>Fri, 25 Sep 2026 13:49:14 +0200</pubDate>
       <sparkle:version>202609251347</sparkle:version>
