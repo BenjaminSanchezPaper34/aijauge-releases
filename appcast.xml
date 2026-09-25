@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.5</title>
+      <pubDate>Fri, 25 Sep 2026 12:48:14 +0200</pubDate>
+      <sparkle:version>202609251246</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Le panneau montre la session Claude Code en cours (projet, modèle, contexte, coût) et la valeur de vos 7 derniers jours au tarif API.</li>
+<li>La fenêtre Historique devient un tableau de bord : valeur de l'abonnement par période, coût par jour, projets et comparaison avec votre forfait.</li>
+<li>Textes harmonisés au vouvoiement.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.5/AIjauge-0.2.5.dmg" type="application/octet-stream" sparkle:edSignature="qDNJ4HScUIWBE/hNjHkqJSCnyY0rfBRy+UCVs3fy0zVzlS6wQa34E67iumnwdK75CJCnUwUFcXBpi0wvTrcWCA==" length="5616271"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.4</title>
       <pubDate>Fri, 25 Sep 2026 00:17:24 +0200</pubDate>
       <sparkle:version>202609250015</sparkle:version>
