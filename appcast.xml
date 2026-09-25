@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>AIjauge 0.2.10</title>
+      <pubDate>Fri, 25 Sep 2026 14:28:02 +0200</pubDate>
+      <sparkle:version>202609251425</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Les réglages « Services » ne listent plus que les abonnements compatibles : Claude et ChatGPT.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.2.10/AIjauge-0.2.10.dmg" type="application/octet-stream" sparkle:edSignature="AjzGm2zdTmHIo/q+lQGbjK4E8g0fr3z2MTj3+5XFkJOa2q4Y48D4S9wZkx5tpoAQauN6ig6nYuiqf3Y2azSjDg==" length="6013506"/>
+    </item>
+    <item>
       <title>AIjauge 0.2.9</title>
       <pubDate>Fri, 25 Sep 2026 14:10:12 +0200</pubDate>
       <sparkle:version>202609251408</sparkle:version>
