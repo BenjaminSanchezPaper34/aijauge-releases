@@ -5,6 +5,22 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.4.0</title>
+      <pubDate>Sun, 27 Sep 2026 08:56:44 +0200</pubDate>
+      <sparkle:version>202609270854</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>AIjauge devient JaugeAI : nouveau nom, nouveau logo, nouvelle icône.</li>
+<li>Nouvelle carte en tête du panneau : la limite qui compte, sa trajectoire jusqu'à la réinitialisation et vos autres limites.</li>
+<li>Choix de la devise dans les réglages, par défaut celle de votre pays, au taux de la Banque centrale européenne.</li>
+<li>La valeur de l'abonnement sur 24 heures glissantes, comme l'historique.</li>
+<li>« Proposer une amélioration » et « Signaler un problème » dans le menu du panneau.</li>
+<li>Corrections : même valeur sur 7 jours dans le panneau et le widget, comparaison avec votre journée moyenne plus juste.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.4.0/JaugeAI-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="NmViKrtRi59sTrS5K8t4CebnyarFpAudKiSbDPM5zlXQfpzN89UMzsgapjEmY5O0I8yW5VSM8m9e9fimLr38BQ==" length="5497401"/>
+    </item>
+    <item>
       <title>AIjauge 0.3.3</title>
       <pubDate>Fri, 25 Sep 2026 16:56:44 +0200</pubDate>
       <sparkle:version>202609251655</sparkle:version>
