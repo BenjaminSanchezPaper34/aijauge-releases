@@ -5,6 +5,24 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.4.1</title>
+      <pubDate>Mon, 28 Sep 2026 10:22:22 +0200</pubDate>
+      <sparkle:version>202609281019</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Une carte de tête repensée : la limite de votre choix en grand (réglage Panneau), les trois mêmes anneaux partout (session, semaine, semaine du modèle) et, dessous, seulement les autres limites.</li>
+<li>Chaque jauge garde la couleur de ce qu'elle mesure ; l'alerte passe par un symbole à côté du pourcentage.</li>
+<li>Lisibilité revue selon les recommandations d'Apple : cartes opaques, textes contrastés, rien sous 11 pt.</li>
+<li>Réglage Apparence : automatique, clair ou sombre.</li>
+<li>Tableau de bord : la valeur de l'abonnement et les conseils en tête.</li>
+<li>Nouveau style de barre des menus « Jetons » et widget « Sessions restantes ».</li>
+<li>Réglages : un onglet Services, avec une section par service.</li>
+<li>L'offre JaugeAI (Gratuit ou Pro) à côté du logo, le forfait dans la carte.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.4.1/JaugeAI-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="pXSmUMLYg2TEpHrmMB4Nb6DIWQq7lxfGHdzuK/TNV8skGqxsbXZPbHZV/KDP74l2cr1vQHwWukgdFYkywtA3Cg==" length="5614770"/>
+    </item>
+    <item>
       <title>JaugeAI 0.4.0</title>
       <pubDate>Sun, 27 Sep 2026 08:56:44 +0200</pubDate>
       <sparkle:version>202609270854</sparkle:version>
