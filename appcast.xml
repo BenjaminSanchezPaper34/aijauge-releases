@@ -5,6 +5,22 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.0</title>
+      <pubDate>Thu, 01 Oct 2026 06:41:25 +0200</pubDate>
+      <sparkle:version>202610010638</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Codex à côté de Claude : les limites Codex de votre forfait ChatGPT (session de 5 h et semaine), avec prévision, valeur au tarif de l'API et session en cours.</li>
+<li>Un seul réglage choisit le service affiché partout : barre des menus, encoche, widgets. Le vôtre, ou le plus proche de sa limite.</li>
+<li>Nouveau : la jauge sous l'encoche du MacBook, comme la Dynamic Island de l'iPhone. Un clic la déploie. Réglages › Général › Jauge.</li>
+<li>Réglages › Services : activez ou coupez chaque service.</li>
+<li>Widgets redessinés : sept derniers jours, sessions restantes par jour, valeur sur 7 et 30 jours.</li>
+<li>Le panneau reste accroché sous son icône ; la rupture prévue se signale par un sablier.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.0/JaugeAI-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="1XYBIGYXfnF6geJxTEMRHLV2eJCDJ5ABC5CYkBg8wOVNIK8Qgxp9sX8p7aeD/TNSGgw+8UsQ91rb9KCcpKYGDg==" length="6263091"/>
+    </item>
+    <item>
       <title>JaugeAI 0.4.1</title>
       <pubDate>Mon, 28 Sep 2026 10:22:22 +0200</pubDate>
       <sparkle:version>202609281019</sparkle:version>
