@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.3</title>
+      <pubDate>Thu, 01 Oct 2026 17:54:09 +0200</pubDate>
+      <sparkle:version>202610011752</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Encoche : quand la réinitialisation est à plus d'un jour, la pastille affiche « 4 j 7 h » au lieu d'un compte à rebours qui débordait.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.3/JaugeAI-0.5.3.dmg" type="application/octet-stream" sparkle:edSignature="N/pxWsHeTUbY9KvqaaTe2KfOznl35Wcn67aIR3HL1d4iAjjlmocM3mxZkLbKy3wuOBQ9goMkv+HrNNb3YD5oCA==" length="6289822"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.2</title>
       <pubDate>Thu, 01 Oct 2026 16:17:44 +0200</pubDate>
       <sparkle:version>202610011615</sparkle:version>
