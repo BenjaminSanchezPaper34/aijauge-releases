@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.2</title>
+      <pubDate>Thu, 01 Oct 2026 16:17:44 +0200</pubDate>
+      <sparkle:version>202610011615</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouveau : le contexte de la session en cours, en option pour l'encoche et la barre des menus (Réglages › Général). Pendant une session Claude Code ou Codex, la jauge montre le contexte utilisé ; le reste du temps, votre limite.</li>
+<li>Encoche : le libellé de la mesure n'est plus coupé sur les encoches étroites.</li>
+<li>Apple Watch : la page Anneaux en plein écran arrive avec la prochaine version iPhone.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.2/JaugeAI-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="+m6KCq+DbGycOnE1POU+VlegdeKxLM6IAkjg+zBXjiKIP0DUd1xhXrhcFr9lVhI/NkMM7jjr8jAqcSOkwjCNAA==" length="6285958"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.1</title>
       <pubDate>Thu, 01 Oct 2026 07:51:06 +0200</pubDate>
       <sparkle:version>202610010749</sparkle:version>
