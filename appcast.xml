@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.4</title>
+      <pubDate>Sat, 03 Oct 2026 10:50:38 +0200</pubDate>
+      <sparkle:version>202610031048</sparkle:version>
+      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Nouvelle présentation au premier lancement : vos services détectés en direct (avec de l'aide pour installer Claude Code ou Codex si vous n'utilisez l'IA que sur le web ou le téléphone), ce que vous verrez, notifications et ouverture à la connexion. À revoir dans Réglages › Général.</li>
+<li>Codex seul fonctionne partout : un Mac qui n'a que Codex alimente aussi l'iPhone, l'Apple Watch et les widgets.</li>
+<li>Encoche : les angles du haut épousent la forme de l'encoche du MacBook.</li>
+<li>Widgets sans données : « En attente de votre Mac » au lieu d'un message vague.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.4/JaugeAI-0.5.4.dmg" type="application/octet-stream" sparkle:edSignature="KCnWYH0G+NZP2kKWpzc4H+SgRpn0GckEodvMrEgFdZMUv81dVsCDKj3vz1mIl8cc5/dFhw3nPL0D/qjLVLbYDA==" length="6707706"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.3</title>
       <pubDate>Thu, 01 Oct 2026 17:54:09 +0200</pubDate>
       <sparkle:version>202610011752</sparkle:version>
