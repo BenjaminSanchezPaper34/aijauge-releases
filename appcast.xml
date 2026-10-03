@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.7</title>
+      <pubDate>Sat, 03 Oct 2026 18:34:31 +0200</pubDate>
+      <sparkle:version>202610031832</sparkle:version>
+      <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Claude sait où il en est (JaugeAI Pro) : à chaque message, Claude Code et Codex reçoivent vos limites, et une consigne courte quand une limite approche. Réglages › Services.</li>
+<li>L'accueil présente ce qu'ajoute JaugeAI Pro.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.7/JaugeAI-0.5.7.dmg" type="application/octet-stream" sparkle:edSignature="purAl55wB5MSiMHS0fnW9s1Mf4khwSk+yfo4pSNYa8iqjZEtRJTkLp9qziV0Y1a6DMC7AsyDKy8s9LCI3lGjAw==" length="6928812"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.6</title>
       <pubDate>Sat, 03 Oct 2026 17:50:23 +0200</pubDate>
       <sparkle:version>202610031748</sparkle:version>
