@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.10</title>
+      <pubDate>Sun, 04 Oct 2026 00:07:39 +0200</pubDate>
+      <sparkle:version>202610040005</sparkle:version>
+      <sparkle:shortVersionString>0.5.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Couleurs des jauges (JaugeAI Pro) : choisissez la couleur de chaque anneau, avec ou sans halo. Réglages › Général.</li>
+<li>JaugeAI Pro : l'essai de sept jours démarré sur l'iPhone sera aussi reconnu sur le Mac (avec la prochaine version iPhone).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.10/JaugeAI-0.5.10.dmg" type="application/octet-stream" sparkle:edSignature="xVSctM08ugjMJy7726H1kclUhKYPBpfcEZ1O7DF7RbltyNw+KYXRxCeiOX195NlLYcGemxlMVPhxZXdKo03SBA==" length="7531138"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.9</title>
       <pubDate>Sat, 03 Oct 2026 21:03:42 +0200</pubDate>
       <sparkle:version>202610032101</sparkle:version>
