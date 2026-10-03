@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.6</title>
+      <pubDate>Sat, 03 Oct 2026 17:50:23 +0200</pubDate>
+      <sparkle:version>202610031748</sparkle:version>
+      <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Les widgets du bureau se mettent de nouveau à jour sur macOS 26.</li>
+<li>Le choix du service (Claude, Codex) fonctionne dans les réglages, la barre des menus et l'encoche.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.6/JaugeAI-0.5.6.dmg" type="application/octet-stream" sparkle:edSignature="PWiBOYhmoWt8vS+yKFIS4CMlPbQ/UYBod5NUp5LgiRsYTKK7mxfGVMr5B3dDbH7f0xWMp86qdPODnFB5MUV4Dw==" length="6863218"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.5</title>
       <pubDate>Sat, 03 Oct 2026 16:21:27 +0200</pubDate>
       <sparkle:version>202610031618</sparkle:version>
