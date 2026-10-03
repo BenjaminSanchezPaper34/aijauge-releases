@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.9</title>
+      <pubDate>Sat, 03 Oct 2026 21:03:42 +0200</pubDate>
+      <sparkle:version>202610032101</sparkle:version>
+      <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Agents de code : les consignes demandent maintenant à l'agent de vous prévenir (demande longue près d'une limite, modèle plus léger, service qui a de la marge, /compact).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.9/JaugeAI-0.5.9.dmg" type="application/octet-stream" sparkle:edSignature="i8/NyT266HxZi8cZIxomSPlXUIIhUQYoqvKV05IyewzWH/QqNd2/t3Lpf8AlS4EJ9mDLmhTzUQJ5YaUFfSxjCQ==" length="7501466"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.8</title>
       <pubDate>Sat, 03 Oct 2026 18:55:55 +0200</pubDate>
       <sparkle:version>202610031854</sparkle:version>
