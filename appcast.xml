@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.16</title>
+      <pubDate>Mon, 05 Oct 2026 16:45:16 +0200</pubDate>
+      <sparkle:version>202610051643</sparkle:version>
+      <sparkle:shortVersionString>0.5.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Encoche plus fidèle à celle du Mac : taille, arrondis et ouverture animée comme l'île dynamique ; vraie encoche sur les écrans sans encoche.</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.16/JaugeAI-0.5.16.dmg" type="application/octet-stream" sparkle:edSignature="UQjZomA7o9K5pr/Y3HWLme2HoMWFGoQmW2k4dZgFnXfjS+R6k7oiy8xAsJRZTHH601J9VYXCQINagLxQszClBQ==" length="7638495"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.15</title>
       <pubDate>Mon, 05 Oct 2026 15:51:57 +0200</pubDate>
       <sparkle:version>202610051549</sparkle:version>
