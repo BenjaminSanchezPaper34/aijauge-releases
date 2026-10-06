@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.17</title>
+      <pubDate>Tue, 06 Oct 2026 13:27:32 +0200</pubDate>
+      <sparkle:version>202610061325</sparkle:version>
+      <sparkle:shortVersionString>0.5.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Encoches indépendantes sur plusieurs écrans ; widgets Claude et Codex harmonisés ; bilan de la semaine, objectif et conseil semaine pour Codex ; corrections (changement d'heure, île après réinitialisation, fiabilité).</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.17/JaugeAI-0.5.17.dmg" type="application/octet-stream" sparkle:edSignature="k0wErgqnbAKF67ep4iWquIAVUOgRcbLYek4godHU45lbFfYrM4Ozb/MngL2c8eqRBnnpSwxbhvSV4Sf5PQOeBA==" length="7910515"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.16</title>
       <pubDate>Mon, 05 Oct 2026 16:45:16 +0200</pubDate>
       <sparkle:version>202610051643</sparkle:version>
