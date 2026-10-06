@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.20</title>
+      <pubDate>Tue, 06 Oct 2026 21:10:41 +0200</pubDate>
+      <sparkle:version>202610062108</sparkle:version>
+      <sparkle:shortVersionString>0.5.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Carte de tête : un verdict (« Dans le rythme », « Pleine vers 16:33 ») et trois chiffres clés ; le même verdict partout ; nouveaux widgets moyen et Anneaux ; chiffre de l'encoche en couleur ; JaugeAI Pro en tête des réglages.</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.20/JaugeAI-0.5.20.dmg" type="application/octet-stream" sparkle:edSignature="U13cAcxllEiktgJbycn/xNY/y0B0g92Xu0tRaYsg28tZ4Gpp61SfwrV+v1MW6qGq8CepvIGRDwn6/CT+21EIBg==" length="7971653"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.19</title>
       <pubDate>Tue, 06 Oct 2026 17:22:47 +0200</pubDate>
       <sparkle:version>202610061720</sparkle:version>
