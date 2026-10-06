@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.19</title>
+      <pubDate>Tue, 06 Oct 2026 17:22:47 +0200</pubDate>
+      <sparkle:version>202610061720</sparkle:version>
+      <sparkle:shortVersionString>0.5.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Anneaux aux mêmes proportions partout, comme sur la carte principale ; forfait affiché dans l'encoche ouverte ; historique Codex sur 24 h.</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.19/JaugeAI-0.5.19.dmg" type="application/octet-stream" sparkle:edSignature="homK9p4Mvu/boypQ/9HRooAQaxGuFtYjgQuYu/RRsdbXEozyYuD/j6rnnFJj3iyeGUCFT+KtpkVf73iST6GVBA==" length="7909223"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.18</title>
       <pubDate>Tue, 06 Oct 2026 14:56:14 +0200</pubDate>
       <sparkle:version>202610061454</sparkle:version>
