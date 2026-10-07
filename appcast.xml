@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.22</title>
+      <pubDate>Wed, 07 Oct 2026 13:41:26 +0200</pubDate>
+      <sparkle:version>202610071339</sparkle:version>
+      <sparkle:shortVersionString>0.5.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Nouveau : Gemini, troisième service. JaugeAI lit les quotas hebdomadaires de votre forfait Google (modèles Gemini, et Claude et GPT) via Antigravity CLI, l'outil de code de Google, en lecture seule.</p>
+<li>Objectif hebdomadaire et conseils pour Gemini, comme pour Codex.</li>
+<li>Anneaux simples de l'encoche à la même proportion que le reste de l'app.</li>
+<li>Codex : le moment de compacter est aussi signalé sur le Mac.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.22/JaugeAI-0.5.22.dmg" type="application/octet-stream" sparkle:edSignature="crmffmDrjDVMD19sI3sFZVWIKewumKDiQJnhxAD+tvl6Ja4WtdFHdiWxrCJg0lHF09DhaxNhE1IyMhsOhviRAg==" length="8070303"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.21</title>
       <pubDate>Wed, 07 Oct 2026 09:29:33 +0200</pubDate>
       <sparkle:version>202610070927</sparkle:version>
