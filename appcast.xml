@@ -5,6 +5,19 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.23</title>
+      <pubDate>Wed, 07 Oct 2026 17:57:27 +0200</pubDate>
+      <sparkle:version>202610071755</sparkle:version>
+      <sparkle:shortVersionString>0.5.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Nouveau (JaugeAI Pro) : demandez vos limites à ChatGPT ou Claude, même à la voix, en voiture ou sur l'iPhone. À activer dans Réglages › Services › Assistants vocaux et mobiles, puis reliez l'assistant avec le code affiché. Désactivé par défaut : seuls vos pourcentages, réinitialisations et forfaits sont partagés, et tout est effacé quand vous le coupez.</p>
+<li>Réglages : section des assistants refaite, étape par étape.</li>
+<li>Lignes de Claude Code : noms des modèles conservés (Fable, Gemini).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.23/JaugeAI-0.5.23.dmg" type="application/octet-stream" sparkle:edSignature="JVVzRgP6DRrkG0hpyXhlUJawp+k91ikjCtcNJihVw2pfQ6skrN6tp36oLDOIgxBTY1r+8S0S4ri7KNU+Eah7CA==" length="8184117"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.22</title>
       <pubDate>Wed, 07 Oct 2026 13:41:26 +0200</pubDate>
       <sparkle:version>202610071339</sparkle:version>
