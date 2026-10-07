@@ -5,6 +5,17 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.21</title>
+      <pubDate>Wed, 07 Oct 2026 09:29:33 +0200</pubDate>
+      <sparkle:version>202610070927</sparkle:version>
+      <sparkle:shortVersionString>0.5.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<p>Nouveau (JaugeAI Pro) : le bandeau JaugeAI dans Claude Code, au-dessus de la zone de saisie : forfait, limite la plus serrée et réinitialisation de chaque service. À activer dans Réglages › Agents de code ; /jaugeai l'affiche ou le masque.</p>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.21/JaugeAI-0.5.21.dmg" type="application/octet-stream" sparkle:edSignature="UcPkeWxWkdqy4+E+9YrgbXUvNWyDiTgDv44hddoGdCJZJAE/WPJNlzeQm8QvMx0b+CgvTWLSSEFnC6lfS4jKAA==" length="7998293"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.20</title>
       <pubDate>Tue, 06 Oct 2026 21:10:41 +0200</pubDate>
       <sparkle:version>202610062108</sparkle:version>
