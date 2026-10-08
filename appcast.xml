@@ -5,6 +5,21 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.24</title>
+      <pubDate>Thu, 08 Oct 2026 17:33:44 +0200</pubDate>
+      <sparkle:version>202610081731</sparkle:version>
+      <sparkle:shortVersionString>0.5.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Panneau : en passant d'un service à l'autre, la grande carte de Claude glisse maintenant comme celles de Codex et Gemini.</li>
+<li>Le pourcentage des onglets suit la mesure choisie pour la grande carte.</li>
+<li>Session en cours : le nom donné à la session dans Claude Code s'affiche, à la place du nom de dossier.</li>
+<li>Le bouton Actualiser relit aussi tout de suite les sessions de Claude Code et Codex.</li>
+<li>Gemini ne disparaît plus après une lecture ratée d'Antigravity au démarrage.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.24/JaugeAI-0.5.24.dmg" type="application/octet-stream" sparkle:edSignature="rmWE6aUe1GVyC7xw27tCjibokE2zoaadkFrDuaKU/JTkTiLmzYBZRVy56JJvFZNpfeASMSvtDH2iThbnWs50AA==" length="8214468"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.23</title>
       <pubDate>Wed, 07 Oct 2026 17:57:27 +0200</pubDate>
       <sparkle:version>202610071755</sparkle:version>
