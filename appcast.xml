@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.25</title>
+      <pubDate>Thu, 08 Oct 2026 23:40:01 +0200</pubDate>
+      <sparkle:version>202610082337</sparkle:version>
+      <sparkle:shortVersionString>0.5.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>**Carte de tête** : choisissez sa disposition dans Réglages › Carte de tête (Classique, Débord, Focus, Trio, Scène) pour le tableau de bord. La classique reste gratuite, les autres sont incluses dans JaugeAI Pro.</li>
+<li>**Lumière** : en mode sombre, la pointe de chaque anneau s'éclaire (option des couleurs des jauges, Pro). L'historique des anneaux reste sobre.</li>
+<li>**Gemini** : ses deux réserves ont chacune leur couleur.</li>
+<li>Un anneau à 0 % reste vide, sans faux départ.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.25/JaugeAI-0.5.25.dmg" type="application/octet-stream" sparkle:edSignature="K94DWc0ZUY5CZxZs6bOFOjLHQPBf+7WBrbkI+BCqIDRvblsMh8fBTPskRWVm72lKcshtfolGwR3yPlXfH1GkAA==" length="8351225"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.24</title>
       <pubDate>Thu, 08 Oct 2026 17:33:44 +0200</pubDate>
       <sparkle:version>202610081731</sparkle:version>
