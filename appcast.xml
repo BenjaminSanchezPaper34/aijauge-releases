@@ -5,6 +5,22 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.26</title>
+      <pubDate>Sat, 10 Oct 2026 10:05:28 +0200</pubDate>
+      <sparkle:version>202610101003</sparkle:version>
+      <sparkle:shortVersionString>0.5.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>**Claude sans jeton** : sur un nouveau Mac, JaugeAI lit vos limites Claude par la ligne d'état de Claude Code (session 5 h et semaine), sans toucher à sa connexion. Le mode complet (limites par modèle, crédits) reste à un clic dans Réglages › Services. Rien ne change sur un Mac déjà installé.</li>
+<li>**Panneau de la barre des menus** : la carte de tête prend aussi la disposition choisie (Pro). Dans le tableau de bord, la carte de Claude ouvre sa colonne.</li>
+<li>**Chiffres en couleur** : chaque pourcentage prend la teinte de son anneau, dans les dispositions et les widgets.</li>
+<li>**Widget rond** : le service et la limite écrits en tout petit autour du chiffre.</li>
+<li>**Gemini** : ses deux anneaux ressemblent à ceux de Codex, bleu à l'extérieur, violet à l'intérieur.</li>
+<li>**Crédits Claude** : le solde prépayé s'affiche dès qu'Anthropic le transmet.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.26/JaugeAI-0.5.26.dmg" type="application/octet-stream" sparkle:edSignature="lC14y7VDKe4FOJyNTL0r4jeMVotopvEa+ZhfG9SKZh3rKRU7LxHkcxUgOA4MEthF2ldsBOK0vbVslta8NSwuCg==" length="8376564"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.25</title>
       <pubDate>Thu, 08 Oct 2026 23:40:01 +0200</pubDate>
       <sparkle:version>202610082337</sparkle:version>
