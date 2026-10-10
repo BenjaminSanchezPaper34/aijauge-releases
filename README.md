@@ -20,13 +20,13 @@ brew install --cask benjaminsanchezpaper34/tap/jaugeai
 
 ![Turn the crown](assets/watch.png)
 
-On Apple Watch, turn the Digital Crown and the card moves between four layouts; the Light brightens the tip of each ring. The watch layouts, and the card layouts and the Light on iPhone, come with the next iPhone version.
+On Apple Watch, turn the Digital Crown and the card moves between four layouts; the Light brightens the tip of each ring.
 
 ![Desktop widgets](assets/widgets.png)
 
 ## Free and Pro
 
-- **Free**: the Mac app with its menu bar, notch, dashboard and desktop widgets; limits, pace, live session and notifications everywhere; the Apple Watch app (its four layouts with the next version).
+- **Free**: the Mac app with its menu bar, notch, dashboard and desktop widgets; limits, pace, live session and notifications everywhere; the Apple Watch app, with its four layouts and the Light.
 - **JaugeAI Pro**, a one-time purchase in the iPhone app, one for all your devices (Family Sharing, 7-day trial):
   - on Mac: gauge colours and the Light, card layouts, the status line and banner in Claude Code, the voice connector, history for your agents;
   - on iPhone and Apple Watch: widgets, complications, Live Activity, history, advice, plan value, colours and layouts.
