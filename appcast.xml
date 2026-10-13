@@ -5,6 +5,23 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.27</title>
+      <pubDate>Tue, 13 Oct 2026 15:53:50 +0200</pubDate>
+      <sparkle:version>202610131552</sparkle:version>
+      <sparkle:shortVersionString>0.5.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>**JaugeAI Pro s'achète sur le Mac** : 9,99 €, un achat unique, une licence pour le Mac, l'iPhone et l'Apple Watch.</li>
+<li>**Réglages** : JaugeAI Pro en tête, dans une carte ; son étiquette accompagne le logo en bas. Une ligne « iPhone et Apple Watch » avec un code à scanner pour installer l'app.</li>
+<li>**Encoche** : un clic droit ouvre ses réglages ; la semaine peut être sa mesure.</li>
+<li>**Carte de tête** : en automatique, la limite la plus avancée passe en tête (la semaine à 94 % avant une session à 17 %) ; les chiffres dessous disent quelle limite ils suivent.</li>
+<li>**Fable** : son anneau passe à l'or, avec un or qui coule doucement quand la Lumière est allumée.</li>
+<li>**Lumière** : plus de couture au début de la partie éclairée, visible dès 10 %.</li>
+<li>**Bandeau dans Claude Code** : la limite affichée est nommée, avec sa propre réinitialisation.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.27/JaugeAI-0.5.27.dmg" type="application/octet-stream" sparkle:edSignature="PGpEsjFjqkztWe8t77s40HqaVjetFZ/KDz+XvEQM0po4WgseO9ZwHSrsZDlI5e9OFkFeVKKmdVKOHA/4s7qUDQ==" length="8550000"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.26</title>
       <pubDate>Sat, 10 Oct 2026 10:05:28 +0200</pubDate>
       <sparkle:version>202610101003</sparkle:version>
