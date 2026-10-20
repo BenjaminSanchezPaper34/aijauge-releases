@@ -27,13 +27,13 @@ On Apple Watch, turn the Digital Crown and the card moves between four layouts; 
 ## Free and Pro
 
 - **Free**: the Mac app with its menu bar, notch, dashboard and desktop widgets; limits, pace, live session and notifications everywhere; the Apple Watch app, with its four layouts and the Light.
-- **JaugeAI Pro**, a one-time purchase in the iPhone app, one for all your devices (Family Sharing, 7-day trial):
+- **JaugeAI Pro**, a one-time purchase (€9.99) [on the Mac](https://licence.jaugeai.com/acheter?lang=en) or in the iPhone app (Family Sharing and a 7-day trial there), one for all your devices:
   - on Mac: gauge colours and the Light, card layouts, the status line and banner in Claude Code, the voice connector, history for your agents;
   - on iPhone and Apple Watch: widgets, complications, Live Activity, history, advice, plan value, colours and layouts.
 
 ## Privacy
 
-The Mac reads your limits locally and shares only the results through your own iCloud. No account, no password to type, no analytics, and no server unless you turn on the voice connector (Pro). The iPhone and Watch show what your Mac published.
+The Mac reads your limits locally and shares only the results through your own iCloud. No account, no password to type, no analytics, and no server unless you turn on the voice connector (Pro). A licence bought on the Mac is checked on the Mac itself; once a week the app only reads the public list of refunded licences. The iPhone and Watch show what your Mac published.
 
 ## Requirements
 
@@ -45,6 +45,6 @@ The app updates itself (Sparkle, signed and notarized). This repository only hos
 
 ---
 
-**En français** : JaugeAI affiche les limites de vos forfaits Claude, Codex et Gemini dans la barre des menus, l'encoche, les widgets, sur iPhone et Apple Watch, sans ouvrir Claude. L'app Mac est gratuite ; JaugeAI Pro est un achat unique dans l'app iPhone. Plus d'informations sur [jaugeai.com](https://jaugeai.com).
+**En français** : JaugeAI affiche les limites de vos forfaits Claude, Codex et Gemini dans la barre des menus, l'encoche, les widgets, sur iPhone et Apple Watch, sans ouvrir Claude. L'app Mac est gratuite ; JaugeAI Pro est un achat unique (9,99 €), [sur le Mac](https://licence.jaugeai.com/acheter?lang=fr) ou dans l'app iPhone, valable sur tous vos appareils. Plus d'informations sur [jaugeai.com](https://jaugeai.com).
 
 JaugeAI is independent software, neither affiliated with nor endorsed by Anthropic, OpenAI or Google. Claude and Claude Code are trademarks of Anthropic, PBC; ChatGPT and Codex of OpenAI; Gemini and Antigravity of Google LLC.
