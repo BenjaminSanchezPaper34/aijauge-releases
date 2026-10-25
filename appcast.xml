@@ -5,6 +5,21 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.28</title>
+      <pubDate>Sun, 25 Oct 2026 09:25:35 +0100</pubDate>
+      <sparkle:version>202610250922</sparkle:version>
+      <sparkle:shortVersionString>0.5.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Le service Codex devient **ChatGPT** : les limites de Codex, la voix estimée et le temps passé dans l'app.</li>
+<li>**Se reconnecter** dans le navigateur, sans Terminal, pour Claude et ChatGPT.</li>
+<li>Réglages : la page Services est rangée, un nouvel onglet **Agents** regroupe la ligne d'état, le bandeau, le serveur MCP et le connecteur vocal.</li>
+<li>Nouvelle disposition de la carte de tête : **Hero** (Pro).</li>
+<li>Encoche : chaque côté prend seulement la place dont il a besoin.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.28/JaugeAI-0.5.28.dmg" type="application/octet-stream" sparkle:edSignature="e0cO+EGQAiSsM7l+MzkBViQfZut10hRB8S+cw6bb3mYShPizZSQtpWXHQ2wXjouNkmVuJj6kmTycGQRRfXleBw==" length="8641102"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.27</title>
       <pubDate>Tue, 13 Oct 2026 15:53:50 +0200</pubDate>
       <sparkle:version>202610131552</sparkle:version>
