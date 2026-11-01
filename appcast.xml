@@ -5,6 +5,18 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.29</title>
+      <pubDate>Sun, 01 Nov 2026 10:11:18 +0100</pubDate>
+      <sparkle:version>202611011008</sparkle:version>
+      <sparkle:shortVersionString>0.5.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>Encoche : l'anneau et le chiffre sont collés à la caméra, et l'encoche prend juste la largeur du chiffre affiché.</li>
+<li>Réglages : le choix du service affiché passe dans l'onglet Services.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.29/JaugeAI-0.5.29.dmg" type="application/octet-stream" sparkle:edSignature="2Qgo0W1g0j1wpb6b7ZuVupXlmnKhii6pOCsF4uApPbi61LtfB8SLkFCfwPYYsBYALd2Lpp1Hp/2ct/YnF0khBw==" length="8672477"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.28</title>
       <pubDate>Sun, 25 Oct 2026 09:25:35 +0100</pubDate>
       <sparkle:version>202610250922</sparkle:version>
