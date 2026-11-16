@@ -5,6 +5,21 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.30</title>
+      <pubDate>Mon, 16 Nov 2026 22:01:20 +0100</pubDate>
+      <sparkle:version>202611162158</sparkle:version>
+      <sparkle:shortVersionString>0.5.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>**Grok** rejoint JaugeAI : votre forfait SuperGrok, la semaine en cours, la part estimée de Grok Build, vos séances et leur valeur, dans le panneau, la barre des menus, l'encoche et les widgets.</li>
+<li>Le bandeau de Claude Code passe en **anneaux** et s'adapte à la largeur de la fenêtre ; « /jaugeai panneau » ouvre le détail de chaque service (Pro).</li>
+<li>ChatGPT : si OpenAI change la forme de ses limites, JaugeAI garde le dernier relevé et le signale, au lieu de faire disparaître le service.</li>
+<li>Correction : l'encoche ne fait plus quitter l'app au moment de la remise à zéro.</li>
+<li>Un seul achat, valable sur Mac, iPhone et Apple Watch : les textes de l'offre sont les mêmes partout.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.30/JaugeAI-0.5.30.dmg" type="application/octet-stream" sparkle:edSignature="5t1jVZIuB7ov26VzECT8gqtiL1PJ+4dlzmKwiZ2yXt3vJH/rS7juPNMYIGpce3c6To9tZYmVuDp7IWDZXNvlCQ==" length="8833424"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.29</title>
       <pubDate>Sun, 01 Nov 2026 10:11:18 +0100</pubDate>
       <sparkle:version>202611011008</sparkle:version>
