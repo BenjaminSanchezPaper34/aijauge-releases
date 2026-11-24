@@ -5,6 +5,20 @@
     <description>Mises à jour d'AIjauge</description>
     <language>fr</language>
     <item>
+      <title>JaugeAI 0.5.31</title>
+      <pubDate>Tue, 24 Nov 2026 14:23:33 +0100</pubDate>
+      <sparkle:version>202611241421</sparkle:version>
+      <sparkle:shortVersionString>0.5.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul>
+<li>**Écrire au développeur** : une idée, un problème, une fonction qui manque ? Écrivez-moi depuis le menu du panneau ou les Réglages, sans compte et sans quitter l'app. Je lis chaque message.</li>
+<li>Si un achat échoue, une ligne sous l'erreur permet de m'écrire directement, avec le message d'erreur déjà joint.</li>
+<li>Gemini et Grok conseillent à leur tour de basculer sur un autre service quand ils approchent de leur limite, comme Claude et ChatGPT.</li>
+<li>Grok reçoit ses conseils d'objectif et de semaine.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/BenjaminSanchezPaper34/aijauge-releases/releases/download/v0.5.31/JaugeAI-0.5.31.dmg" type="application/octet-stream" sparkle:edSignature="ji+AvkeBAnQnQdFIZghzGXsStwMDD/nFVrRC8e2W0g6xn83XedtOFyPcJIsktFDVIOXJwCRLTyH1Qw7UpyH9CA==" length="8977783"/>
+    </item>
+    <item>
       <title>JaugeAI 0.5.30</title>
       <pubDate>Mon, 16 Nov 2026 22:01:20 +0100</pubDate>
       <sparkle:version>202611162158</sparkle:version>
